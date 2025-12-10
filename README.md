@@ -1,4 +1,4 @@
-# damleyminh.github.io
+![Profile Picture](Profile.jpg)
 Welcome to my portfolio website!
 
 ## About Me
