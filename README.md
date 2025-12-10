@@ -20,17 +20,6 @@ Master of Business Analysis
 Expected Graduation: December 2026
 
 ## Contact
-- Email: damleyminh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/minh-dam-885a5b134/
-- GitHub: [@damleyminh](https://github.com/damleyminh)
-
-
-
-
-
-- [View on GitHub](link)
-
-## Contact
 - 📧 Email: damleyminh@gmail.com
 - 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/minh-dam-885a5b134/)
 - 🐙 GitHub: [@damleyminh](https://github.com/damleyminh)
